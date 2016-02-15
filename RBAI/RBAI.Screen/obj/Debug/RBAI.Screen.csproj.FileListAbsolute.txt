@@ -1,0 +1,8 @@
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Screen\bin\Debug\RBAI.Screen.exe.config
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Screen\bin\Debug\RBAI.Screen.exe
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Screen\bin\Debug\RBAI.Screen.pdb
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Screen\obj\Debug\RBAI.Screen.Properties.Resources.resources
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Screen\obj\Debug\RBAI.Screen.csproj.GenerateResource.Cache
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Screen\obj\Debug\RBAI.Screen.exe
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Screen\obj\Debug\RBAI.Screen.pdb
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Screen\obj\Debug\RBAI.Screen.Form1.resources

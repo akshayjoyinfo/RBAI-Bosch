@@ -1,0 +1,8 @@
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Domain\bin\Debug\RBAI.Domain.dll
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Domain\bin\Debug\RBAI.Domain.pdb
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Domain\bin\Debug\RBAI.Logging.dll
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Domain\bin\Debug\log4net.dll
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Domain\bin\Debug\RBAI.Logging.pdb
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Domain\obj\Debug\RBAI.Domain.csprojResolveAssemblyReference.cache
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Domain\obj\Debug\RBAI.Domain.dll
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.Domain\obj\Debug\RBAI.Domain.pdb

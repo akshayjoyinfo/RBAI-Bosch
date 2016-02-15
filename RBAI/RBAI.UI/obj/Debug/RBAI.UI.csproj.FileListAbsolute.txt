@@ -1,0 +1,17 @@
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\bin\Debug\RBAI.UI.exe.config
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\bin\Debug\RBAI.UI.exe
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\bin\Debug\RBAI.UI.pdb
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\obj\Debug\RBAI.UI.csprojResolveAssemblyReference.cache
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\obj\Debug\RBAI.UI.Properties.Resources.resources
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\obj\Debug\RBAI.UI.csproj.GenerateResource.Cache
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\obj\Debug\RBAI.UI.exe
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\obj\Debug\RBAI.UI.pdb
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\bin\Debug\RBAI.Domain.dll
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\bin\Debug\RBAI.Logging.dll
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\bin\Debug\RBAI.Repository.dll
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\bin\Debug\log4net.dll
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\bin\Debug\RBAI.Domain.pdb
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\bin\Debug\RBAI.Logging.pdb
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\bin\Debug\RBAI.Repository.pdb
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\obj\Debug\RBAI.UI.frmMainUI.resources
+D:\Akshay\Projects\Bosch-Sanu-RBAI\RBAI\RBAI.UI\obj\Debug\RBAI.UI.frmAdminPanel.resources
